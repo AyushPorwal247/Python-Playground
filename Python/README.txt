@@ -1,1 +1,0 @@
-This folder contains some basic python codes.
